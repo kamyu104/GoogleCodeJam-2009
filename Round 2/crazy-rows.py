@@ -12,8 +12,8 @@ def crazy_rows():
     numbers = [None]*N
     for i in xrange(N):
         numbers[i] = raw_input().strip().rfind('1')
+
     expected_sorted_positions = [-1]*N
-    result = 0
     for i in xrange(N):
         for j in xrange(N):
             if expected_sorted_positions[j] < 0 and numbers[j] <= i:
