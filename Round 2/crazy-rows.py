@@ -4,7 +4,7 @@
 # https://code.google.com/codejam/contest/204113/dashboard#s=p0&a=0
 #
 # Time:  O(N^2)
-# Space: O(N^2)
+# Space: O(N)
 #
 
 def crazy_rows():
