@@ -19,7 +19,7 @@ def bribe_the_prisoners():
             for k in xrange(i+1, j):
                 min_coins = min(min_coins, dp[i][k]+dp[k][j])
             dp[i][j] = A[j]-A[i]-2 + min_coins
-    return dp[0][-1]
+    return dp[0][Q+1]
 
 for case in xrange(input()):
     print 'Case #%d: %s' % (case+1, bribe_the_prisoners())
