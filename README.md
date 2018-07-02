@@ -1,4 +1,4 @@
-# [GoogleCodeJam 2009](https://code.google.com/codejam/contests.html) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-1%20%2F%2026-ff69b4.svg)
+# [GoogleCodeJam 2009](https://code.google.com/codejam/contests.html) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-2%20%2F%2026-ff69b4.svg)
 
 Python solutions of Google Code Jam 2009.
 
@@ -25,6 +25,7 @@ Python solutions of Google Code Jam 2009.
 ## Round 1C
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|C| [Bribe the Prisoners](https://code.google.com/codejam/contest/189252/dashboard#s=p2&a=2)| [Python](./Round%201C/bribe-the-prisoners.py)| _O(Q^3)_ | _O(Q^2)_ | Easy | | DP |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
