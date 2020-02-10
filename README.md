@@ -10,6 +10,7 @@ Python solutions of Google Code Jam 2009. Solution begins with `*` means it will
 * [Round 2](https://github.com/kamyu104/GoogleCodeJam-2009#round-2)
 * [Round 3](https://github.com/kamyu104/GoogleCodeJam-2009#round-3)
 * [World Finals](https://github.com/kamyu104/GoogleCodeJam-2009#world-finals)
+* [GoogleCodeJame-2010](https://github.com/kamyu104/GoogleCodeJam-2010)
 
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
